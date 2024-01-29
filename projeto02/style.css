@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* 
+font-family: 'DM Sans', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Mulish', sans-serif;
+font-family: 'Open Sans', sans-serif; */
+
+:root{
+  font-size: 62.5%;
+
+  --green-light: #89c5cc;
+  --blue-dark: #1f1534;
+  --black:#000000;
+  --gray-light: #7d7987;
+  --white: #f9f9f9;
+  --background-button: #69b99d;
+
+}
