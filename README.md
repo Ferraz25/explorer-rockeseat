@@ -40,24 +40,24 @@
   <tbody>
       <tr>
         <td>01</td>
-        <td><a href="customized-furniture">Customized Furniture</a></td>
+        <td><a href="01-customized-furniture">Customized Furniture </a></td>
         <td>26/01/24<td>
         <td align="center">
-        <a href="customized-furniture"><img width="300px" src="customized-furniture/.github/preview.png" /></a></td>
+        <a href="01-customized-furniture"><img width="300px" src="01-customized-furniture/.github/preview.png" /></a></td>
       </tr>
       <tr>
         <td>02</td>
-        <td><a href="flutuar">Flutuar</a></td>
+        <td><a href="02-flutuar">Flutuar</a></td>
         <td>27/01/24<td>
         <td align="center">
-        <a href="flutuar"><img width="300px" src="flutuar/.github/preview.png" /></a></td>
+        <a href="02-flutuar"><img width="300px" src="02-flutuar/.github/preview.png" /></a></td>
       </tr>
       <tr>
         <td>03</td>
-        <td><a href="treineme">Treine.me</a></td>
+        <td><a href="03-treineme">Treine.me</a></td>
         <td>08/02/24<td>
         <td align="center">
-        <a href="treineme"><img width="300px" src="treineme/.github/preview.png" /></a></td>
+        <a href="03-treineme"><img width="300px" src="03-treineme/.github/preview.png" /></a></td>
       </tr>
     </tbody>
 </table></p>
