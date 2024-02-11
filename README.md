@@ -59,5 +59,12 @@
         <td align="center">
         <a href="03-treineme"><img width="300px" src="03-treineme/.github/preview.png" /></a></td>
       </tr>
+      <tr>
+        <td>04</td>
+        <td><a href="04-rocketsect">Rocket.sect</a></td>
+        <td>10/02/24<td>
+        <td align="center">
+        <a href="04-rocketsect"><img width="300px" src="04-rocketsect/.github/preview.png" /></a></td>
+      </tr>
     </tbody>
 </table></p>

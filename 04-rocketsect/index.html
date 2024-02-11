@@ -3,18 +3,21 @@
 <head>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
-
+  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Rocket.sect</title>
-
+  
+  <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div id="app">
     <nav>
-      <img src="./assets/logo.svg" alt="Logo da Rocket.sect">
+      <a id="logo" href="#">
+        <img src="./assets/logo.svg" alt="Logo da Rocket.sect">
+      </a>
 
       <ul>
         <li><a href="#">Início</a></li>
@@ -30,10 +33,8 @@
         <h1>Seus dados estão <span>protegidos?</span></h1>
 
         <p>
-          A informação é fundamental e de <strong>extrema importância</strong> para qualquer empresa.
-
-          <br><br>
-
+          A informação é fundamental e de <strong>extrema importância</strong> para qualquer empresa. <br>
+          <br>
           A <strong>Rocket.sect</strong> trabalha com as melhores ferramentas do mercado de <span>segurança da informação</span>
           protegendo os dados e informações da sua empresa.
         </p>
@@ -41,11 +42,11 @@
     </main>
 
     <footer>
-      <div class="line"></div>
       para mais informações nos siga no instagram @rocketsect
     </footer>
-
-    <img src="./assets/padlock.svg" alt="Imagem de um cadeado">
   </div>
+  
+  <img id="padlock" src="./assets/padlock.svg" alt="Imagem de um cadeado">
+
 </body>
 </html>
