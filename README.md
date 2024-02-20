@@ -66,5 +66,12 @@
         <td align="center">
         <a href="04-rocketsect"><img width="300px" src="04-rocketsect/.github/preview.png" /></a></td>
       </tr>
+      <tr>
+        <td>05</td>
+        <td><a href="05-event-form">Event Form</a></td>
+        <td>20/02/24<td>
+        <td align="center">
+        <a href="05-event-form"><img width="300px" src="05-event-form/.github/preview.png" /></a></td>
+      </tr>
     </tbody>
 </table></p>
