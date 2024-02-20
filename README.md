@@ -1,7 +1,7 @@
 ## Explorer
 
 <p align="center">
-    Projetos desenvolvidos durante os estudos do curso Eplorer da RocketSeat <br>
+    Projetos desenvolvidos durante os estudos do curso Explorer da RocketSeat <br>
     <br><table>
     <thead>
         <tr>
