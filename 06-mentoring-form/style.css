@@ -68,6 +68,10 @@ form{
 
 fieldset{
   border: 0;
+
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 
 fieldset legend{
@@ -120,4 +124,90 @@ fieldset legend{
   border-radius: 8px;
   background-color: #fafafc;
   border: 1px solid #e6e6f0;
+  padding: 0 15px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+h2{
+  font-family: "Staatliches", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 34px;
+
+  color: var(--gray);
+}
+
+.col-3{
+  display: flex;
+}
+ 
+.col-3 > div:nth-child(1){
+  width: 300px;
+  margin-right: 32px;
+}
+
+.col-3 > div:nth-child(2){
+  margin-right: 10px;
+}
+
+.col-3 > div:nth-child(2),
+.col-3 > div:nth-child(3){
+  width: 140px;
+}
+
+input[type=date],
+input[type=time] {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  background-color: #fafafc;
+  border: #e6e6f0;
+  border-radius: 8px;
+  padding: 0 15px;
+  color: #c1bccc;
+}
+
+::-webkit-calendar-picker-indicator{
+  font-size: 14px;
+}
+
+footer{
+  height: 160px;
+  margin-bottom: 100px;
+
+  border-radius: 0 0 8px 8px;
+  background-color: var(--gray);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  padding: 52px 71px;
+}
+
+footer button{
+  background-color: var(--pink);
+  color: #ffffff;
+
+  border-radius: 20px;
+
+  padding: 15px 40px;
+  
+  font-family: 'Staatliches', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;
+
+  border: none;
+  cursor: pointer;
+}
+
+footer button:hover{
+  background-color: #ce4460;
+}
+
+input:invalid{
+  border: 1px solid rgba(113, 10, 10, 0.605);
 }
