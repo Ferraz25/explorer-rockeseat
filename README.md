@@ -42,43 +42,37 @@
         <td>01</td>
         <td><a href="01-customized-furniture">Customized Furniture </a></td>
         <td>26/01/24<td>
-        <td align="center">
-        <a href="01-customized-furniture"><img width="300px" src="01-customized-furniture/.github/preview.png" /></a></td>
+        <a href="01-customized-furniture"><img width="300px" src="01-customized-furniture/.github/preview.png" /></a>
       </tr>
       <tr>
         <td>02</td>
         <td><a href="02-flutuar">Flutuar</a></td>
         <td>27/01/24<td>
-        <td align="center">
-        <a href="02-flutuar"><img width="300px" src="02-flutuar/.github/preview.png" /></a></td>
+        <a href="02-flutuar"><img width="300px" src="02-flutuar/.github/preview.png" /></a>
       </tr>
       <tr>
         <td>03</td>
         <td><a href="03-treineme">Treine.me</a></td>
         <td>08/02/24<td>
-        <td align="center">
-        <a href="03-treineme"><img width="300px" src="03-treineme/.github/preview.png" /></a></td>
+        <a href="03-treineme"><img width="300px" src="03-treineme/.github/preview.png" /></a>
       </tr>
       <tr>
         <td>04</td>
         <td><a href="04-rocketsect">Rocket.sect</a></td>
         <td>10/02/24<td>
-        <td align="center">
-        <a href="04-rocketsect"><img width="300px" src="04-rocketsect/.github/preview.png" /></a></td>
+        <a href="04-rocketsect"><img width="300px" src="04-rocketsect/.github/preview.png" /></a>
       </tr>
       <tr>
         <td>05</td>
         <td><a href="05-event-form">Event Form</a></td>
         <td>20/02/24<td>
-        <td align="center">
-        <a href="05-event-form"><img width="300px" src="05-event-form/.github/preview.png" /></a></td>
+        <a href="05-event-form"><img width="300px" src="05-event-form/.github/preview.png" /></a>
       </tr>
       <tr>
         <td>06</td>
         <td><a href="06-mentoring-form">Mentoring Form</a></td>
         <td>21/02/24<td>
-        <td align="center">
-        <a href="06-mentoring-form"><img width="300px" src="06-mentoring-form/.github/preview.png" /></a></td>
+        <a href="06-mentoring-form"><img width="300px" src="06-mentoring-form/.github/preview.png" /></a>
       </tr>
     </tbody>
 </table></p>
