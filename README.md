@@ -74,5 +74,11 @@
         <td>21/02/24<td>
         <a href="06-mentoring-form"><img width="300px" src="06-mentoring-form/.github/preview.png" /></a>
       </tr>
+      <tr>
+        <td>07</td>
+        <td><a href="07-mentoring-evaluation">Mentoring Evaluation</a></td>
+        <td>23/02/24<td>
+        <a href="07-mentoring-evaluation"><img width="300px" src="07-mentoring-evaluation/.github/preview.png" /></a>
+      </tr>
     </tbody>
 </table></p>
