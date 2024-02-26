@@ -80,5 +80,11 @@
         <td>23/02/24<td>
         <a href="07-mentoring-evaluation"><img width="300px" src="07-mentoring-evaluation/.github/preview.png" /></a>
       </tr>
+      <tr>
+        <td>07</td>
+        <td><a href="08-responsive-work">Responsive Work</a></td>
+        <td>26/02/24<td>
+        <a href="08-responsive-work"><img width="300px" src="08-responsive-work/.github/preview.png" /></a>
+      </tr>
     </tbody>
 </table></p>
