@@ -81,10 +81,16 @@
         <a href="07-mentoring-evaluation"><img width="300px" src="07-mentoring-evaluation/.github/preview.png" /></a>
       </tr>
       <tr>
-        <td>07</td>
+        <td>08</td>
         <td><a href="08-responsive-work">Responsive Work</a></td>
         <td>26/02/24<td>
         <a href="08-responsive-work"><img width="300px" src="08-responsive-work/.github/preview.png" /></a>
+      </tr>
+      <tr>
+        <td>09</td>
+        <td><a href="09-cheesecake">Cheesecake</a></td>
+        <td>28/02/24<td>
+        <a href="09-cheesecake"><img width="300px" src="09-cheesecake/.github/preview.png" /></a>
       </tr>
     </tbody>
 </table></p>
