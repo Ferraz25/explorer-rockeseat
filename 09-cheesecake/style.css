@@ -10,42 +10,93 @@
 :root {
   font-size: 62.5%;
 
-  font-family: "Source Serif Pro";
+  font-family: "Source Serif Pro", sans-serif;
+
+  color: #a54328;
 }
 
 main {
   max-width: 32rem;
-  padding: 5.4rem 3.6rem;
 
   margin-inline: auto;
 
-  background-color: #ffffff;
-  color: #a54328;
-  font-size: 1.6rem;
+  padding: 5.6rem 4rem;
+
+  box-sizing: content-box;
 
   display: flex;
   flex-direction: column;
-  gap: 3.4rem;
+  gap: 3.2rem;
 }
 
 img {
   width: 100%;
+
   margin-block: 4.8rem;
 }
 
 h1,
 h2 {
-  font-size: 2.8rem;
-  font-weight: 700;
+  font-size: clamp(2.8rem, 2vw + 1rem, 4rem);
+  line-height: clamp(3.6rem, 2vw + 1rem, 5rem);
+}
+
+h2 {
+  margin-bottom: 3.2rem;
 }
 
 p,
-strong {
-  font-size: 14.171px;
-  font-weight: 400;
-  line-height: normal;
+strong,
+li {
+  font-size: clamp(1.4rem, 1vw + 0.4rem, 2rem);
+  line-height: clamp(1.8rem, 1vw + 1rem, 2.5rem);
 }
 
-strong {
-  font-weight: 700;
+ul,
+ol {
+  padding-left: 2.4rem;
+}
+
+ul {
+  margin-bottom: 2.4rem;
+}
+
+button {
+  margin-top: 3.2rem;
+  font-family: "Source Serif 4", sans-serif;
+  padding: 0.8rem 1.2rem;
+
+  background-color: #a54328;
+  color: #ffffff;
+
+  border: 0;
+  border-radius: 0.6rem;
+
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #622716;
+}
+
+@media (min-width: 1024px) {
+  main {
+    padding: 3rem 6rem;
+
+    flex-direction: row;
+    gap: 16rem;
+    max-width: fit-content;
+  }
+
+  .recipe {
+    max-width: 43.5rem;
+  }
+
+  .ingredients {
+    max-width: 52.5rem;
+  }
+
+  button {
+    padding: 1.2rem 2.4rem;
+  }
 }
