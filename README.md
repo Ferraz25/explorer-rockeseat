@@ -92,5 +92,11 @@
         <td>28/02/24<td>
         <a href="09-cheesecake"><img width="300px" src="09-cheesecake/.github/preview.png" /></a>
       </tr>
+      <tr>
+        <td>10</td>
+        <td><a href="10-galaxies">Galaxies</a></td>
+        <td>14/03/24<td>
+        <a href="10-galaxies"><img width="300px" src="10-galaxies/.github/preview.png" /></a>
+      </tr>
     </tbody>
 </table></p>
